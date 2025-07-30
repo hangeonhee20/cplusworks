@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\cworkspace\\pointers\\",
+  "WorkspaceRootPath": "C:\\cplusworks\\Pointers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|pointers\\pointers.vcxproj|C:\\cworkspace\\pointers\\pointers\\classMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|pointers\\pointers.vcxproj|solutionrelative:pointers\\classMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|Pointers\\pointers.vcxproj|C:\\cplusworks\\Pointers\\Pointers\\classMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|Pointers\\pointers.vcxproj|solutionrelative:Pointers\\classMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|pointers\\pointers.vcxproj|C:\\cworkspace\\pointers\\pointers\\classBirthday.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|pointers\\pointers.vcxproj|C:\\cplusworks\\Pointers\\pointers\\classBirthday.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|pointers\\pointers.vcxproj|solutionrelative:pointers\\classBirthday.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|pointers\\pointers.vcxproj|C:\\cworkspace\\pointers\\pointers\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|pointers\\pointers.vcxproj|C:\\cplusworks\\Pointers\\pointers\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{03C116DE-539F-4198-99AE-85A6A2C1D49F}|pointers\\pointers.vcxproj|solutionrelative:pointers\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -25,43 +25,41 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Car.cpp",
-              "DocumentMoniker": "C:\\cworkspace\\pointers\\pointers\\Car.cpp",
-              "RelativeDocumentMoniker": "pointers\\Car.cpp",
-              "ToolTip": "C:\\cworkspace\\pointers\\pointers\\Car.cpp",
-              "RelativeToolTip": "pointers\\Car.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-29T08:41:59.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "classBirthday.cpp",
-              "DocumentMoniker": "C:\\cworkspace\\pointers\\pointers\\classBirthday.cpp",
-              "RelativeDocumentMoniker": "pointers\\classBirthday.cpp",
-              "ToolTip": "C:\\cworkspace\\pointers\\pointers\\classBirthday.cpp",
-              "RelativeToolTip": "pointers\\classBirthday.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-29T08:41:14.052Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Pointers\\pointers\\Car.cpp",
+              "RelativeDocumentMoniker": "pointers\\Car.cpp",
+              "ToolTip": "C:\\cplusworks\\Pointers\\pointers\\Car.cpp",
+              "RelativeToolTip": "pointers\\Car.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T08:41:59.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "classBirthday.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Pointers\\pointers\\classBirthday.cpp",
+              "RelativeDocumentMoniker": "pointers\\classBirthday.cpp",
+              "ToolTip": "C:\\cplusworks\\Pointers\\pointers\\classBirthday.cpp",
+              "RelativeToolTip": "pointers\\classBirthday.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T08:41:14.052Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "classMember.cpp",
-              "DocumentMoniker": "C:\\cworkspace\\pointers\\pointers\\classMember.cpp",
-              "RelativeDocumentMoniker": "pointers\\classMember.cpp",
-              "ToolTip": "C:\\cworkspace\\pointers\\pointers\\classMember.cpp",
-              "RelativeToolTip": "pointers\\classMember.cpp",
+              "DocumentMoniker": "C:\\cplusworks\\Pointers\\Pointers\\classMember.cpp",
+              "RelativeDocumentMoniker": "Pointers\\classMember.cpp",
+              "ToolTip": "C:\\cplusworks\\Pointers\\Pointers\\classMember.cpp",
+              "RelativeToolTip": "Pointers\\classMember.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-29T08:30:36.133Z",
